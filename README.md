@@ -2,7 +2,7 @@
 
 👀 I’m interested in compilers, programming languages, and the development thereof
 
-🌱 I’m currently learning [Go](https://go.dev/)
+<!--🌱 I’m currently learning [Go](https://go.dev/)  -->
 
 <!--💞️ I’m looking to collaborate on -->
 
